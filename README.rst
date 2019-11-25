@@ -4,6 +4,16 @@ Sceptre
 
 .. image:: https://circleci.com/gh/cloudreach/sceptre.png?style=shield
 
+
+Personal Capital Notes
+----------------------
+
+Sceptre is `no longer accepting contributions to V1 <https://github.com/Sceptre/sceptre/pull/867>`_.
+In the interim, to support CloudFormation include transforms, we will load
+sceptre from this *PUBLIC* git repo while we work on
+`upgrading our tools to use Sceptre V2 <https://github.com/sceptre/project/wiki/Migration-Guide:-V1-to-V2>`_.
+
+
 About
 -----
 
