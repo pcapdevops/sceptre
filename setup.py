@@ -34,7 +34,7 @@ setup_requirements = [
 ]
 
 setup(
-    name="sceptre",
+    name="pcsceptre",
     version=__version__,
     description="Cloud Provisioning Tool",
     long_description=readme,
